@@ -1,4 +1,4 @@
-## Hello I'm amoraByte🌸
+<h1 align="center">Hello I'm amoraByte🌸</h1> 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDgxcTNnbWszYW5xYmJ5ZHJjdGF4cW5mMTBhZGtzZGUwOXdzb3R5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0mdKt2OiXz0rcovxIZ/giphy.gif" width="100" height="100">
 </div>
